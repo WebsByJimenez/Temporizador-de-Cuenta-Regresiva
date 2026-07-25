@@ -33,10 +33,11 @@
 │   └── index.js
 ├── index.html
 └── README.md
-🚀 Instalación y Uso Local
-No requiere instalación de dependencias ni servidores externos.
-👤 Autor
 
+🚀 Instalación y Uso Local
+No requiere la instalación de dependencias ni servidores externos. Únicamente clona el repositorio u obtén los archivos y abre index.html en cualquier navegador web moderno.
+
+👤 Autor
 Desarrollado con 💻 por WebsByJimenez.
 
 
