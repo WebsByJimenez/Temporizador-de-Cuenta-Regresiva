@@ -40,5 +40,3 @@ No requiere la instalación de dependencias ni servidores externos. Únicamente 
 👤 Autor
 Desarrollado con 💻 por WebsByJimenez.
 
-
-```
