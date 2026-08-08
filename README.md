@@ -5,7 +5,7 @@
 **Temporizador de Cuenta Regresiva** es una aplicación web interactiva y totalmente adaptativa que muestra el tiempo restante en tiempo real para el próximo Año Nuevo. El proyecto está diseñado con lógica dinámica para actualizarse de forma automática y perpetua año tras año sin necesidad de mantenimiento manual.
 
 <p align="center">
-  <img src="./img/temporizador.jpg" alt="Vista previa del temporizador" width="400">
+  <img src="./img/Tiempo.jpg" alt="Vista previa del temporizador" width="400">
 </p>
 
 ## ✨ Características Principales
